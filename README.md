@@ -13,7 +13,7 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "Mohammed Abid"
+        self.name = "ABID"
         self.role = "Data Analyst"
         self.language_spoken = ["English", "Hindi", "Roman Urdu"]
         self.tools = ["Power BI", "MS Excel", "Python", "SQL"]
