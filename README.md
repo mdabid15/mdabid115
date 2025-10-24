@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+${YOUR_NAME};💻+Full+Stack+Developer;🌐+Open+Source+Contributor;🚀+Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=👋+Assalamu+Alaikum,+I'm+Mohammed+Abid;📊+Data+Analyst+%26+Storyteller;⚙️+Turning+Data+Into+Decisions;🚀+Learning+Power+BI+%26+AI+Analytics" alt="Typing SVG">
 </h1>
 
 <p align="center">
@@ -10,135 +10,58 @@
 
 ## 🧭 About Me
 
-python
-class Developer:
+```python
+class DataAnalyst:
     def __init__(self):
-        http://self.name = "${YOUR_NAME}"
-        self.role = "Full Stack Developer"
-        self.language_spoken = ["English", "Hindi"]
-        self.location = "${YOUR_LOCATION}"
-        self.learning = ["AI/ML", "FastAPI", "Django REST Framework"]
-        self.interests = ["Web Dev", "Open Source", "Automation"]
+        self.name = "Mohammed Abid"
+        self.role = "Data Analyst"
+        self.language_spoken = ["English", "Hindi", "Roman Urdu"]
+        self.tools = ["Power BI", "MS Excel", "Python", "SQL"]
+        self.learning = ["Advanced DAX", "ETL Automation", "AI + Analytics"]
+        self.goal = "To analyze data with integrity and contribute to growth with purpose."
 
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-`
+    def say_bismillah(self):
+        print("Every insight begins with Bismillah — for truth, value, and impact.")
 
----
+💼 Professional Summary
 
-## 🧠 Skills Dashboard
+I’m a passionate Data Analyst who transforms raw data into powerful insights.
+Skilled in Power BI, Excel, Python, and SQL, I focus on building dashboards that tell stories and drive decisions.
+My mission is to blend technical excellence with ethical purpose — using data to serve people and create value that pleases Allah ﷻ.
 
+🧠 Skills Overview
 <div align="center">
-
-|   *Languages*   |    *Frameworks*   |   *Databases*   |   *Tools / IDEs*  |
-| :---------------: | :-----------------: | :---------------: | :-----------------: |
-|     🐍 Python     | 🌐 Django / FastAPI | 💾 MySQL / SQLite |      ⚙ VSCode      |
-| 🕸 HTML, CSS, JS |   ⚛ React (Basic)  |   🗄 PostgreSQL  |    🧭 Git, GitHub   |
-|  📊 NumPy, Pandas |     🔍 REST APIs    |    ☁ Firebase    | 🧩 Jupyter Notebook |
-
+Languages	Analytics Tools	Databases	Other Tools
+🐍 Python	📊 Power BI	💾 MySQL / SQLite	⚙ VS Code
+📈 SQL	📗 MS Excel	🗄 PostgreSQL	🧩 Git, GitHub
+📊 Pandas / NumPy	🔍 Data Cleaning	☁ Cloud Basics	📎 Jupyter Notebook
 </div>
+📊 Power BI Dashboard Highlights
 
----
+🎯 Sales Performance Dashboard
 
-## 🏆 GitHub Achievements
+Interactive Power BI dashboard tracking KPIs, revenue trends, and customer segmentation.
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=${YOUR_USERNAME}&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" />
-</p>
+🎯 Retail Insights Report
 
----
+Automated Excel report system built with Power Query and Power Pivot for monthly insights.
 
-## 📈 GitHub Stats Dashboard
+🎯 SQL-Based Inventory Analysis
 
-<div align="center">
+SQL queries optimized for identifying low-performing SKUs and forecasting restocks.
 
-<img src="https://github-readme-stats.vercel.app/api?username=${YOUR_USERNAME}&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=${YOUR_USERNAME}&theme=radical&hide_border=true" height="160" />
+(More projects coming soon!)
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${YOUR_USERNAME}&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=${YOUR_USERNAME}&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" />
-
-</div>
-
----
-
-## 🎨 Projects Dashboard
-
-### 🚀 Featured Project — *AI Legal Assistant*
-
-> A Natural Language Processing–powered project that simplifies legal knowledge using TextRank, TF-IDF, and Cosine Similarity.
-
-*Tech Stack:*
-Python • NLTK • Gradio • PdfPlumber • TF-IDF
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=${YOUR_USERNAME}&repo=law-edify&theme=radical&hide_border=true" />
-</p>
-
----
-
-## ⚙ Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,html,css,js,react,mysql,sqlite,git,github,vscode,linux&perline=8" />
-</p>
-
----
-
-## 💬 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/${YOUR_LINKEDIN}" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:${YOUR_EMAIL}" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/${YOUR_USERNAME}" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://${YOUR_PORTFOLIO}" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a>
-</p>
-
----
-
-## 🎯 Fun Dashboard (Animated)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Random Joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
-
----
-
-## ⚡ Activity Timeline
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Created new project ${PROJECT_NAME}
-2. ✨ Contributed to open source ${OPEN_SOURCE_PROJECT}
-3. 🛠 Fixed bugs in ${REPO_NAME}
-4. 🚀 Deployed new feature on ${DEPLOYMENT}
-
-<!--END_SECTION:activity-->
-
----
-
-## 🌈 Visitor Dashboard
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=${YOUR_USERNAME}&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile — Happy Coding!</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation">
-</p>
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=mohammedabid&theme=radical&no-frame=true&row=1&margin-w=10&margin-h=10" alt="Trophies" /> </p>
+📈 GitHub Stats Dashboard
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohammedabid&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabid&theme=radical&hide_border=true" height="160" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabid&layout=compact&theme=radical&hide_border=true&langs_count=8" height="160" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedabid&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Graph" /> </div>
+⚙ Tools & Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,excel,powerbi,git,github,vscode,linux&perline=7" /> </p>
+💬 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/mohammedabid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="mailto:mohammedabid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/mohammedabid" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://mohammedabidportfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a> </p>
+💭 Quote of the Day
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Data+is+truth,+but+insight+is+wisdom." alt="Quote" /> </p>
+🌍 Visitor Dashboard
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mohammedabid&label=Profile+Views&color=blueviolet&style=flat-square" /> </p>
+<h3 align="center">⭐ Alhamdulillah for every opportunity to learn and grow — Data is my canvas, truth is my goal.</h3> <p align="center"> <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" alt="Coding Animation"> </p> ```
